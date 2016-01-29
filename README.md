@@ -3,6 +3,8 @@
 [![NPM version](https://badge.fury.io/js/grunt-contrib-testem.png)](http://badge.fury.io/js/grunt-contrib-testem)
 [![Build Status](https://travis-ci.org/inossidabile/grunt-contrib-testem.png?branch=master)](https://travis-ci.org/inossidabile/grunt-contrib-testem)
 
+THIS PROJECT HAS MIGRATED TO grunt-testem-mincer. This package is not being maintained. This exists because the new package is version incompatible with the old one and it has no version history. Therefore this exists to bridge that gap.
+
 > Run tests with Testem in a convenient way:
 >
 >   * Multi-environment runs :heart:
